@@ -1,7 +1,6 @@
 <h1>Poly-race</h1>
 <p>
-Currently working on v2.2.5 for the level update.
-<break>
+Currently working on v2.2.5 for the level update.<break>
 Performance updates in v2.0 and Initial on v1.0.
 </p>
 
